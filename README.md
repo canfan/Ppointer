@@ -1,2 +1,0 @@
-# Ppointer
-Created with CodeSandbox
